@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-26T15:41:54 IST" name="Default suite" finished-at="2025-06-26T15:42:42 IST" duration-ms="48472">
+    <groups>
+    </groups>
+    <test started-at="2025-06-26T15:41:54 IST" name="Default test" finished-at="2025-06-26T15:42:42 IST" duration-ms="48472">
+      <class name="TestingSuite.TestLoginPage">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestingSuite.TestLoginPage@229f66ed]" started-at="2025-06-26T15:41:54 IST" name="SetUp" finished-at="2025-06-26T15:41:57 IST" duration-ms="3608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestInvalidUsername()[pri:1, instance:TestingSuite.TestLoginPage@229f66ed]" started-at="2025-06-26T15:41:57 IST" name="TestInvalidUsername" finished-at="2025-06-26T15:42:00 IST" duration-ms="2648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestInvalidUsername -->
+        <test-method signature="TestINValidCredentials()[pri:2, instance:TestingSuite.TestLoginPage@229f66ed]" started-at="2025-06-26T15:42:00 IST" name="TestINValidCredentials" finished-at="2025-06-26T15:42:02 IST" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestINValidCredentials -->
+        <test-method signature="TestValidCredentials()[pri:3, instance:TestingSuite.TestLoginPage@229f66ed]" started-at="2025-06-26T15:42:02 IST" name="TestValidCredentials" finished-at="2025-06-26T15:42:17 IST" duration-ms="14200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestValidCredentials -->
+        <test-method signature="TestInvalidPassword()[pri:4, instance:TestingSuite.TestLoginPage@229f66ed]" started-at="2025-06-26T15:42:17 IST" name="TestInvalidPassword" finished-at="2025-06-26T15:42:32 IST" duration-ms="15345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestInvalidPassword -->
+        <test-method signature="emptyLogin()[pri:5, instance:TestingSuite.TestLoginPage@229f66ed]" started-at="2025-06-26T15:42:32 IST" name="emptyLogin" finished-at="2025-06-26T15:42:42 IST" duration-ms="10379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyLogin -->
+      </class> <!-- TestingSuite.TestLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
